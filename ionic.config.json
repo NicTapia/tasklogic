@@ -1,0 +1,7 @@
+{
+  "name": "tasklogic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
